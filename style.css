@@ -10,7 +10,7 @@ body {
 }
 
 .card {
-  background: white;
+  background: black;
   padding: 35px 45px;
   border-radius: 25px;
   text-align: center;
@@ -50,7 +50,7 @@ button {
 
 #yes {
   background: #ff4d6d;
-  color: white;
+  color: black;
 }
 
 #no {
@@ -77,3 +77,4 @@ button {
     opacity: 0;
   }
 }
+
