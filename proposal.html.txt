@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Forever 💍</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="hearts"></div>
+
+  <div class="card">
+    <h1>Nuha 💍💖</h1>
+
+    <p class="proposal-text">
+      You just made my heart the happiest place in the world 🌍💕<br><br>
+      This is Hejil — choosing you today, tomorrow, and always 🌹
+    </p>
+
+    <p class="from">
+      Forever yours,<br>
+      Hejil ❤️
+    </p>
+  </div>
+
+</body>
+</html>
