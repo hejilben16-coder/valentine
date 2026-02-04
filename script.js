@@ -16,7 +16,7 @@ noBtn.addEventListener("mouseover", () => {
 });
 
 // Floating hearts & roses
-const emojis = ["💖", "💕", "🌹", "❤️", "💘"];
+const emojis = ["💖", "💕", "❤️", "💘"];
 
 function createHeart() {
   const span = document.createElement("span");
@@ -25,7 +25,8 @@ function createHeart() {
   span.style.animationDuration = (6 + Math.random() * 4) + "s";
   heartsContainer.appendChild(span);
 
-  setTimeout(() => span.remove(), 8000);
+  setTimeout(() => span.remove(), 800);
 }
 
 setInterval(createHeart, 400);
+
